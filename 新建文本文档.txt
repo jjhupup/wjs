@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aasdfsdf    
-=======
 aasdfsdf  我改了啊
->>>>>>> hot
